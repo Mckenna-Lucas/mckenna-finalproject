@@ -1,0 +1,182 @@
+{
+  "slug": "filename",
+  "headline": "Headline goes here",
+  "date": "Month DD, YYYY",
+  "image": "image.jpg",
+  "post": [
+    {
+      "type": "text",
+      "value": "Paragraphs of text."
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "Texas State Capitol",
+      "headline": "5 Reasons to Visit the Texas State Capitol",
+      "date": "Nov. 28, 2018",
+      "image": "texas-state-capitol.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Whether a longtime resident, a transplant or a visitor just passing through town, Visit Austin insiders highly recommend making time to tour the magnificent Texas Capitol building and grounds. Learn more about the historic statehouse and find out how to explore the Texas State Capitol with these top 5 reasons to visit."
+        },
+        {
+          "type": "text",
+          "value": "1. Free Tours"
+        },
+        {
+          "type": "text",
+          "value": "The Texas Capitol offers free 30-minute tours which are a great way to learn about the history of the building, walk the historic halls and take pictures. Tours run from 8:30 a.m. to 4:30 p.m. Monday to Friday, departing every 30 to 45 minutes. Tours run from 9:30 a.m. to 3:30 p.m. on Saturday and noon to 3:30 p.m on Sundays."
+        },
+        {
+          "type": "text",
+          "value": "If you prefer to tour at your own pace, you can pick up a free self-guided tour pamphlet from the Capitol Information and Guide Service room or the Capitol Visitors Center, and enjoy the building and surrounding grounds from 7:00 a.m. to 10:00 p.m. on weekdays or from 9:00 a.m. to 8:00 p.m. on weekends."
+        },
+        {
+          "type": "text",
+          "value": "Also, you’ll find that parking is a breeze - the garage is conveniently located about two blocks from the Texas State Capitol (1201 San Jacinto St.), and the first two hours of parking are free."
+        },
+        {
+          "type": "text",
+          "value": "2. Ornate Architecture"
+        },
+        {
+          "type": "text",
+          "value": "The massive three-story Sunset Red Texas Granite structure is the largest capitol building in the United States, standing 14 feet higher than the U.S. Capitol building. Keep an eye out for elegant and ornate details, from the giant brass door hinges (so beautiful that people have tried to steal them over the decades!), to the detailed handrails. Look closely at the brass chandeliers in the House of Representatives Chamber to find that the light bulbs spell out T-E-X-A-S."
+        },
+        {
+          "type": "text",
+          "value": "3. Gorgeous Grounds"
+        },
+        {
+          "type": "text",
+          "value": "Finished with your tour? The Capitol grounds comprise of about 22 acres in the heart of downtown Austin, so there's plenty more to see! Featuring 17 monuments, historic buildings and trees and beautifully landscaped lawns, the grounds are a great place to explore, enjoy a picnic or learn more about the history of Texas. Pick up a free brochure and monuments map from the Capitol Information and Guide Service room or the Capitol Visitors Center."
+        },
+        {
+          "type": "text",
+          "value": "4. Fun Exhibits"
+        },
+        {
+          "type": "text",
+          "value": "If you’re interested in learning more about the history of Texas traditions and the State Capitol, stop by the Visitor’s Center. Their 2018-19 exhibit, \"Saddle Up,\" showcases Texas ranching tradition and the everyday lives of modern cowboys and cowgirls. Explore other permanent exhibits on display about the construction of the Capitol building, Texas Revolution soldiers and more."
+        },
+        {
+          "type": "text",
+          "value": "5. Good Food"
+        },
+        {
+          "type": "text",
+          "value": "After all the walking you’ve been doing, stop by the Capitol Grill to refuel, located in the Capitol Extension. They offer breakfast, lunch and grab-and-go options, so stop by to try a sweet Texas-sized flapjack or a delicious Capitol Grill burger. Other nearby dining options include the Texas Chili Parlor (seen in Quentin Tarantino's 2007 movie \"Death Proof\" and serenaded by Guy Clark in his tune, Dublin Blues), the historic Clay Pit for some of the best Indian food in town (built 1853) and more!"
+        },
+        {
+          "type": "text",
+          "value": "Touring the Texas State Capitol is a great, hassle-free way to spend an afternoon in downtown Austin. Whether a tourist or a local, it’s a must see! Looking for more information about historic Austin? Take a guided walking tour with the Austin Visitor Center, explore our free historic brochure or check off these 30 must-see historic destinations from your to do list!"
+        }
+      ]
+    },
+    {
+      "slug": "Mount Bonnell",
+      "headline": "Mount Bonnell for Beginners",
+      "date": "Apr. 24, 2021",
+      "image": "mount-bonnell.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "While part of the allure of Austin includes more than 300 days of sunshine per year, those visitors with more urban experience might find themselves intimidated by the unbelievable variety of outdoor activities that the city has to offer. Whether you're here for the day or plan on sticking around for a while, Mount Bonnell is a great place to get your outdoor adventures started and witness some of the incredible views the city has to offer. Check out some quick tips for the short hike!"
+        },
+        {
+          "type": "text",
+          "value": "Tips for the Mount Bonnell Trail"
+        },
+        {
+          "type": "text",
+          "value": "Actually located in Covert Park, Mount Bonnell is one of the highest points in Austin at 781 feet! The peak is named for George Bonnell, who served as Commissioner of Indian Affairs for the Texas Republic."
+        },
+        {
+          "type": "text",
+          "value": "While this view is pretty high up in the sky, don't be intimidated! The overlook of downtown and the 360 Bridge is actually more of a tourist destination than a workout, and is a great hot-spot for picture-taking and those on an adventurous date. When you reach the top of the 102-stair climb, you can rest at the view deck and pavilion before making your way back down. (Pro-tip: take your date to the top for a romantic picnic!)"
+        },
+        {
+          "type": "text",
+          "value": "To get to Mount Bonnell, take 35th Street west over MoPac past Camp Mabry. After taking a left at the fork onto Old Bull Creek Road, take a right on Mount Bonnell Road and move up the hill, where you will then see parking to your left. All of this is free and, because of the short hike, is great for all ages!"
+        },
+        {
+          "type": "text",
+          "value": "As always, no matter what you do in Austin, wear sunblock, drink water and, yes, you can also bring your dog."
+        },
+        {
+          "type": "text",
+          "value": "Is Mount Bonnell Free?"
+        },
+        {
+          "type": "text",
+          "value": "Yes! The trail is free to access and even offers free parking. Find more cheap and free things to do in Austin."
+        },
+        {
+          "type": "text",
+          "value": "Mount Bonnell Hours"
+        },
+        {
+          "type": "text",
+          "value": "Wondering if you can you visit Mount Bonnell at night? The peak is a fantastic viewing point for sunsets and sunrises! Luckily, the trail is open from 5 a.m. - 10 p.m. daily, so you can arrive early to claim a spot for the scenic show. The park also offers several picnic tables, so bring a picnic to enjoy overlooking Lake Austin."
+        },
+        {
+          "type": "text",
+          "value": "Mount Bonnell Accessibility"
+        },
+        {
+          "type": "text",
+          "value": "Please note that the Mount Bonnell hike requires climbing steps or accessing the peak via a gravel trail. While the trail may be accessible for some, it is not paved and consists of a quick, 200-foot elevation gain to reach the peak."
+        },
+        {
+          "type": "text",
+          "value": "That's it! This is a great place to visit when you're in town to see what Austin and the Texas Hill Country is all about, and is now one of my favorite overlooks in the city. Bring your camera, and be sure to tag @VisitAustinTX or use #TrueAustin in your latest outdoor adventure."
+        }
+      ]
+    },
+    {
+      "slug": "Lady Bird Lake",
+      "headline": "Your Guide to Paddling Lady Bird Lake",
+      "date": "Mar. 21, 2018",
+      "image": "lady-bird-lake.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Lady Bird Lake is the epitome of the Austin lifestyle. Every day of the week, the lake is filled with people taking advantage of this stretch of dammed-off Colorado River that offers endless recreation opportunities. Backdropped by the downtown Austin skyline on one side, Zilker Park and Auditorium Shores on the other, and featuring the Ann and Roy Butler Hike and Bike Trail, this entire section of Austin represents the enthusiasm locals have for the outdoors. With eight official access points (and endless other places to put-in or take-out), the reservoir is a great place to spend a day on the water, be it on your lunch break or all day on a Sunday."
+        },
+        {
+          "type": "text",
+          "value": "WHAT CAN YOU DO AT LADY BIRD LAKE?"
+        },
+        {
+          "type": "text",
+          "value": "Lady Bird Lake features paddling with a view, with the city’s skyline visible most of the time. You can explore paddling-designated lake trails or you chart your own course. You also have access to Barton Springs Pool or Deep Eddy Pool, both of which are spring-fed Austin pools that are open year round."
+        },
+        {
+          "type": "text",
+          "value": "There are several places to rendezvous on the lake’s shores, including Festival Beach and Red Bud Isle. You’ll find paddlers up and down the shores basking in the shade of the Hill Country’s signature cypress trees and on the beach areas along the way, particularly during the spring and summer months when locals take up residence for hours. If you’re visiting or don’t have your own kayak, canoe, or SUP, several Austin businesses line the lake’s shores, offering equipment rental and guidance to navigating the lake."
+        },
+        {
+          "type": "text",
+          "value": "PADDLE BOARDING, KAYAKING & CANOEING"
+        },
+        {
+          "type": "text",
+          "value": "People love the lake’s proximity to downtown and its ease of access. And with rentals on the lake shore, it makes getting into the water quick and easy for visitors. It’s a safe haven for families since there are no motorized boats on the water, making it a great place for children to learn the ropes on the lake."
+        },
+        {
+          "type": "text",
+          "value": "Because there is no motorized boat traffic on Lady Bird Lake, paddlers of any kind can take full reign over the lake. Leisurely paddlers, fitness enthusiasts, and even rowing teams practice between Longhorn and Tom Miller dams. The lake is calm and easy to navigate, with plenty of distance for those counting their miles."
+        },
+        {
+          "type": "text",
+          "value": "LADY BIRD LAKE DIRECTIONS, PARKING & REGULATIONS"
+        },
+        {
+          "type": "text",
+          "value": "There are 8 official access points along Lady Bird Lake, allowing you to access multiple lake trail options. Depending on where you’d like to access the lake, parking will vary. There is free and abundant parking at Zilker Park, though the park does get busy and can fill up. Otherwise, you can park at Red Bud Isle, Auditorium Shores, or any of the other entry points on the above map. There is also boat rental access at Zilker Park, the Rowing Dock, and Texas Rowing Center, among other local places."
+        }
+      ]
+    }
+  ]
+}

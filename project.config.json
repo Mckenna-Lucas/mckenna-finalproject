@@ -9,7 +9,18 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1dTjzvq5dmnAcYA2-zZkmKqU6NHTm_0mbTg1J34ZfwJM",
+      "type": "doc",
+      "name": "restaurants"
+    },
+    {
+      "fileId": "1MT1P1oBekt-seWsOcztjSeg0PBXLxqk39xUgTu-lyC4",
+      "type": "doc",
+      "name": "blog"
     }
+
   ],
   "to_bake": [
     {
@@ -18,6 +29,13 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-blog",
+      "data": "blog",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "blog"
     }
   ]
 }

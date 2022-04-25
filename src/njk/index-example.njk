@@ -1,0 +1,22 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Index page title{% endblock %}
+
+{% block page_description %}The index search description for this page goes here.{% endblock %}
+
+{% block content %}
+
+    <div class="row">
+       <div class="col-md-8 offset-2">
+       {% for blog in blog.blogs %}
+        <div>
+        <img src="img/{{blog.image}} " class="card-img-top" alt="...">
+        <h6> {{ blog.date }} <h6>
+        <h3> <a href="blog/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+        {% endfor %}
+      <div>
+    <div>
+
+
+
+{% endblock %}
