@@ -1,15 +1,15 @@
 {% extends '_templates/base.njk' %}
 
 {% block content %}
-<article class="container">
+<article>
   <h1>Best Austin Restaurants</h1>
-  <p>Intro text here.</p>
+  <p>Check out Austin's most popular restaurants and cafes</p>
 
  <div class="row">
   {% for rest in restaurants.restaurants %}
-  <div class="col-sm-6">
+  <div class="col-sm-6 bg-warning">
     <div class="card">
-      <img src="img/{{rest.image}} " class="card-img-top" alt="...">
+      <img src="img/restaurants/{{rest.image}} " class="img-fluid" alt="...">
       <div class="card-body">
         <h5 class="card-title"> {{ rest.name }} </h5>
         <p class="card-text"> {{ rest.category}} </p>
@@ -20,4 +20,5 @@
   {% endfor %}
 </div>
 </article>
+
 {% endblock %}
