@@ -76,13 +76,19 @@
       "name": "Red River Cafe",
       "address": "2912 Medical Arts St, Austin, TX 78705",
       "category": "Cafe",
-      "image": "redrivercafe.jpg"
+      "image": "red-river.jpg"
     },
     {
       "name": "Coffee + Crisp",
       "address": "3220 Amy Donovan Plaza #100, Austin, TX 78758",
       "category": "Cafe",
       "image": "coffeeandcrisp.jpg"
+    },
+    {
+      "name": "Dolce Neve Gelato",
+      "address": "1713 South 1st street, Austin, TX 78704",
+      "category": "Gelato",
+      "image": "dolce-neve.jpg"
     }
   ]
 }

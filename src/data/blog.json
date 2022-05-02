@@ -11,7 +11,7 @@
   ],
   "blogs": [
     {
-      "slug": "Texas State Capitol",
+      "slug": "texas-state-capitol",
       "headline": "5 Reasons to Visit the Texas State Capitol",
       "date": "Nov. 28, 2018",
       "image": "texas-state-capitol.jpg",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "slug": "Mount Bonnell",
+      "slug": "mount-bonnell",
       "headline": "Mount Bonnell for Beginners",
       "date": "Apr. 24, 2021",
       "image": "mount-bonnell.jpg",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "slug": "Lady Bird Lake",
+      "slug": "lady-bird-lake",
       "headline": "Your Guide to Paddling Lady Bird Lake",
       "date": "Mar. 21, 2018",
       "image": "lady-bird-lake.jpg",
