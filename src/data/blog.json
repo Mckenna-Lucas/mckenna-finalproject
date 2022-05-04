@@ -3,6 +3,7 @@
   "headline": "Headline goes here",
   "date": "Month DD, YYYY",
   "image": "image.jpg",
+  "Description": "description",
   "post": [
     {
       "type": "text",
@@ -22,7 +23,7 @@
         },
         {
           "type": "text",
-          "value": "1. Free Tours"
+          "value": "1. FREE TOURS"
         },
         {
           "type": "text",
@@ -38,7 +39,7 @@
         },
         {
           "type": "text",
-          "value": "2. Ornate Architecture"
+          "value": "2. ORNATE ARCHITECTURE"
         },
         {
           "type": "text",
@@ -46,7 +47,7 @@
         },
         {
           "type": "text",
-          "value": "3. Gorgeous Grounds"
+          "value": "3. GORGEOUS GROUNDS"
         },
         {
           "type": "text",
@@ -54,7 +55,7 @@
         },
         {
           "type": "text",
-          "value": "4. Fun Exhibits"
+          "value": "4. FUN EXHIBITS"
         },
         {
           "type": "text",
@@ -62,7 +63,7 @@
         },
         {
           "type": "text",
-          "value": "5. Good Food"
+          "value": "5. GOOD FOOD"
         },
         {
           "type": "text",
@@ -86,7 +87,7 @@
         },
         {
           "type": "text",
-          "value": "Tips for the Mount Bonnell Trail"
+          "value": "TIPS FOR THE MOUNT BONNELL TRAIL"
         },
         {
           "type": "text",
@@ -106,7 +107,7 @@
         },
         {
           "type": "text",
-          "value": "Is Mount Bonnell Free?"
+          "value": "IS MOUNT BONNELL FREE?"
         },
         {
           "type": "text",
@@ -114,7 +115,7 @@
         },
         {
           "type": "text",
-          "value": "Mount Bonnell Hours"
+          "value": "MOUNT BONNELL HOURS"
         },
         {
           "type": "text",
@@ -122,7 +123,7 @@
         },
         {
           "type": "text",
-          "value": "Mount Bonnell Accessibility"
+          "value": "MOUNT BONNELL ACCESSIBILITY"
         },
         {
           "type": "text",
@@ -175,6 +176,31 @@
         {
           "type": "text",
           "value": "There are 8 official access points along Lady Bird Lake, allowing you to access multiple lake trail options. Depending on where you’d like to access the lake, parking will vary. There is free and abundant parking at Zilker Park, though the park does get busy and can fill up. Otherwise, you can park at Red Bud Isle, Auditorium Shores, or any of the other entry points on the above map. There is also boat rental access at Zilker Park, the Rowing Dock, and Texas Rowing Center, among other local places."
+        }
+      ]
+    },
+    {
+      "slug": "univ-of-tx",
+      "headline": "Visit the University of Texas at Austin",
+      "date": "Apr. 24, 2021",
+      "image": "univ-of-tx.jpg",
+      "source": "",
+      "post": [
+        {
+          "type": "text",
+          "value": "Nicknamed the “Forty Acres” after the size of the university’s original 1883 footprint, The University of Texas at Austin’s main campus is a 431-acre urban oasis in the heart of the capital city of Texas. Campus is home to landmarks like the Tower at the heart of campus or the Perry-Castañeda Library with over 70 miles of book stacks. Discover the creativity of the Blanton Museum of Art and the exterior installation from Ellsworth Kelly, \"Austin.\""
+        },
+        {
+          "type": "text",
+          "value": "Explore our opportunities to learn more about campus and what makes life great on the Forty Acres. We are excited to showcase a few ways that you can get a peek at Longhorn life."
+        },
+        {
+          "type": "text",
+          "value": "Registration for an on-campus tour is now open for high school juniors and admitted high school seniors."
+        },
+        {
+          "type": "text",
+          "value": "Prospective students are encouraged to take advantage of our many live virtual sessions and tours or our Look Around Virtual Tour."
         }
       ]
     }

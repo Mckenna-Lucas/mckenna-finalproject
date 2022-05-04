@@ -1,24 +1,33 @@
 {% extends '_templates/base.njk' %}
 
-{% block content %}
-<article>
-  <h1>Best Austin Restaurants</h1>
-  <p>Check out Austin's most popular restaurants and cafes</p>
+{% block content  %}
+<body class= "bg-">
+<div class="container">
+  <div class= "row">
+    <div class= "col-md-12 sm-6">
+<article >
+  <h1 class="text-center">Best Austin Restaurants</h1>
+  <p class="text-center">Check out Austin's most popular restaurants and cafes</p>
 
  <div class="row">
   {% for rest in restaurants.restaurants %}
-  <div class="col-sm-6 bg-warning mg 2">
+  <div class="col-sm-6 mg 2">
     <div class="card h-100">
       <img src="img/restaurants/{{rest.image}} " class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"> {{ rest.name }} </h5>
         <p class="card-text"> {{ rest.category}} </p>
         <p class="card-text"> {{rest.address}} </p>
+        <a href="{{ rest.source }}" target="_blank" class="btn btn-primary">Yelp Review</a>
       </div>
     </div>
   </div>
   {% endfor %}
 </div>
 </article>
+</div>
+</div>
+</div>
+</body>
 
 {% endblock %}

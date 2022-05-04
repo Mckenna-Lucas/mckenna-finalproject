@@ -9,10 +9,10 @@
        <div class="col-md-8 offset-2">
        {% for blog in blog.blogs %}
         <div>
+          <img src="img/landmarks/{{blog.image}} " class="card-img-top" alt="...">
           <brk>
         <h3> <a href="blog/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
          <h6> {{ blog.date }} <h6>
-         <img src="img/landmarks/{{blog.image}} " class="card-img-top" alt="...">
           <brk>
           <brk>
       {% endfor %}
